@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wasted News</string>
+    <string name="shareDescription">Most eazy news app for android \n http://goo.gl/lrHNR</string>
+    <string name="initial_message">Thnak you!\nNow loading entries.\nWait for a while.</string>
+    <string name="no_favorites_message">You can view favorited entries.\nPlease add to favorite, to top star bottom or select favorite from menu.</string>
+    <string name="header_background_color">#002dfe</string>
+    <string name="admob_id">a1508b9f8f83e17</string>
+    <string name="month_date_format">MMMMM yyyy</string>
+    <string name="share">Share</string>
+    <string name="news_has_arrived">a news arrived</string>
+    <string name="n_news_added">Added %d newses</string>
+    <string name="no_newer_news">not exists any newer entries.</string>
+    <string name="actions_of_entry">Action of entry</string>
+    <string name="favorited_it">favorited %s</string>
+    <string name="marked_it_as_read">marked as read %s</string>
+    <string name="removed_it">removed %s</string>
+    <string name="favorite">Favorite</string>
+    <string name="other">Other</string>
+    <string name="share_app_with_friends">Share app with friends</string>
+    <string name="review_app">Review app</string>
+    <string name="support">Support</string>
+    <string name="all">All</string>
+    <string name="do_share">Share</string>
+    <string name="do_reload">Reload</string>
+    <string name="do_remove">Remove</string>
+    <string name="mark_read">Mark as read</string>
+    <string name="update_check">Update check</string>
+    <string name="settings">Settings</string>
+    <string name="image">image</string>
+    <string name="newentry">NEW</string>
+
+    <string name="auto_crawl">Auto Crawl</string>
+    <string name="auto_crawl_interval">Auto Crawl Interval</string>
+    <string name="crawl_midnight">Auto Crawl in Midnight</string>
+    <string name="crawl_midnight_y">Yes</string>
+    <string name="crawl_midnight_n">No</string>
+    <string name="notify_sound">Notify Sound</string>
+    <string name="notify_sound_y">ring</string>
+    <string name="notify_sound_n">silent</string>
+</resources>

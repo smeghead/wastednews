@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arrays_pref_intervals">
+        <item>Not crawl</item>
+        <item>each 15 minutes</item>
+        <item>each 30 minutes</item>
+        <item>each 1hour</item>
+        <item>each 3hour</item>
+    </string-array>
+    <string-array name="arrays_entry_actions">
+        <item>Share</item>
+        <item>Favorite</item>
+        <item>Mark as read</item>
+        <item>Remove</item>
+    </string-array>
+    <string-array name="arrays_mobile_url_orgin">
+        <item>/dqnplus/</item>
+        <item>/labaq.com/</item>
+        <item>/ro69.jp/</item>
+    </string-array>
+    <string-array name="arrays_mobile_url_repleace">
+        <item>/dqnplus/lite/</item>
+        <item>/labaq.com/lite/</item>
+        <item>/sp.ro69.jp/</item>
+    </string-array>
+</resources>
